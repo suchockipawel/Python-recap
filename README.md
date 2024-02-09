@@ -1,16 +1,16 @@
 # Python-recap
 
-# GitPython
-# Date objects
-# Collections
-# Regular expressions
-# Loops
-# Functions
+## GitPython
+## Date objects
+## Collections
+## Regular expressions
+## Loops
+## Functions
     # Decorators
     # Lambda functions
-# Writing pseudo code
+## Writing pseudo code
 
-# Classes
+## Classes
     # class objects, class methods, class attributes
     # polymorphism
     # Inheritance
@@ -19,32 +19,32 @@
     # Abstract classes
     # Mixin classes
 
-# Dunder/Magic Methods
+## Dunder/Magic Methods
 
-# Singleton / Factory methods
+## Singleton / Factory methods
 
-# Exceptions: try/except
+## Exceptions: try/except
     # exceptions
     # rise exceptions
     # builtin exceptions
     # custom exceptions
 
-# Testing
+## Testing
     # write unit test
     # unit test function
     # unit test classes
     # Mocking, stubbing in testing
 
-# Linting tools
+## Linting tools
     #flake8
     #pylint
 
-# Libraries
+## Libraries
     # Script
     # Module
     # package
 
-# CLI (Command Line Interface)
+## CLI (Command Line Interface)
     # pass parameters from linux console to python file
 
 
