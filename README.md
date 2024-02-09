@@ -1,7 +1,7 @@
 # Python-recap
 
 # git
-    # Date objects
+# Date objects
     # Collections
     # Regular expressions
     # Loops
