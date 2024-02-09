@@ -46,5 +46,7 @@
 
 ## CLI (Command Line Interface)
     # pass parameters from linux console to python file
+    # sys.argv
+    # argparse
 
 
