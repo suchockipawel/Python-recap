@@ -1,0 +1,14 @@
+{
+    "alina": {
+        "password": "123456789",
+        "balance": 1000.0
+    },
+    "pawel": {
+        "password": "189189189",
+        "balance": 5000900.0
+    },
+    "louise": {
+        "password": "dcipython",
+        "balance": 1000.0
+    }
+}

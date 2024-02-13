@@ -1,3 +1,10 @@
+# A regular expression is a sequence of characters that forms a search pattern. When you search for data in a text, you can use this search pattern to describe what you are searching for.
+# A regular expression can be a single character, or a more complicated pattern.
+# Regular expressions can be used to perform all types of text search and text replace operations.
+# Python does not have a built-in Regular Expression library, but we can import the 're' package to work with regular expressions.
+# In Python the re library allows you to deﬁne regular expression functions and regular expression metacharacters
+# Metacharacters are symbols or characters that have a special meaning within a regular expression, for example the dollar ($) symbol, deﬁnes an “end with character” pattern.
+
 import re
 
 '''
