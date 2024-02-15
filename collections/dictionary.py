@@ -1,3 +1,78 @@
+# Dictionaries in Python
+
+# Define a dictionary
+dict_1 = {'key1': 'value1', 'key2': 'value2'}
+
+# Dictionaries have order
+print(dict_1)
+
+# Dictionaries allow duplicates in values
+dict_2 = {'key1': 'value1', 'key2': 'value2'}
+
+print(dict_2)
+
+# Access value by key
+print(dict_2['key2'])
+
+# Dictionaries allow objects of different types
+dict_3 = {1: 'value1', 'key2': 2, 'is_true': True}
+
+print(dict_3)
+
+# Convert nested tuple into dictionary
+nested_tuple = (('name', 'pawl'), ('country', 'Germany'))
+tuple_to_dict = dict(nested_tuple)
+
+print(tuple_to_dict)
+
+# Create empty set
+new_set = set()
+
+# Create empty dictionary
+new_dict_2 = {}
+
+# Create dictionary using dict constructor/keyword
+new_dict = dict()
+
+# Create a dictionary with boolean object as key
+dict_4 = {True: 'yes', False: 'No'}
+
+print(dict_4)
+
+# Use fromkeys method to define dictionary
+dict_5 = dict.fromkeys(('name', 'age', 'city', 'country'))
+
+print(dict_5)
+
+# Get value from dictionary using keys
+print(dict_5['name'])
+
+# Add value to a key in dictionary
+dict_5['name'] = 'Alex'
+
+print(dict_5['name'])
+
+# Copy a dictionary using copy keyword
+dict_6 = dict_5.copy()
+
+print(dict_6)
+
+# Update the dictionary with more key-value pairs
+dict_6.update({'field': 'IT'})
+
+print(dict_6)
+
+# Get value using key indexing
+print(dict_6['name'])
+
+# Get value using get method
+print(dict_6.get('name'))
+
+# Modify value using key indexing
+dict_6['name'] = 'Nina'
+
+# print(dict_6)
+
 '''
 # Task 1
 
