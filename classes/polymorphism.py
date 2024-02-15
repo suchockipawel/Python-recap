@@ -108,4 +108,5 @@ for game in list_of_games:
         your_score += 1
         
 print(f'Your score is {your_score}/10')
+
            
